@@ -1,0 +1,100 @@
+Jul 29 21:31:59 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 15:33:08 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 13:31:30 localhost (II) LoadModule: "glx"
+Jul 29 17:11:37 localhost (II) LoadModule: "glx"
+Jul 28 22:58:27 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 17:17:32 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 06:25:06 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 07:27:20 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 08:23:12 localhost (II) LoadModule: "glx"
+Jul 29 10:58:47 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 11:19:57 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 22:00:25 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 20:34:34 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 18:56:57 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 18:17:34 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 08:10:06 localhost (II) LoadModule: "glx"
+Jul 29 19:27:23 localhost (II) LoadModule: "glx"
+Jul 29 22:06:23 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 28 23:59:46 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 11:27:24 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 28 23:03:12 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 06:57:43 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 17:52:56 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 14:15:19 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 00:26:06 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 10:20:34 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 11:35:08 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 00:45:36 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 28 23:34:01 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 05:01:55 localhost (II) LoadModule: "glx"
+Jul 29 02:05:36 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 08:56:29 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 15:23:18 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 21:43:45 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 28 23:23:49 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 08:04:28 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 02:20:08 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 09:45:33 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 00:13:30 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 03:24:37 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 16:49:14 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 05:04:41 localhost (II) LoadModule: "glx"
+Jul 29 17:22:41 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 00:29:21 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 14:41:21 localhost (II) LoadModule: "glx"
+Jul 29 20:36:59 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 12:16:44 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 17:37:20 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 02:54:05 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 10:02:54 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 19:43:31 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 01:10:01 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 22:08:39 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 07:58:00 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 06:45:23 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 28 22:48:24 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 05:05:00 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 28 23:12:20 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 16:28:07 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 03:03:52 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 28 23:25:12 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 16:14:25 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 08:35:23 localhost (II) LoadModule: "glx"
+Jul 28 22:47:48 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 11:27:24 localhost (II) LoadModule: "glx"
+Jul 29 12:42:47 localhost (II) LoadModule: "glx"
+Jul 29 19:53:56 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 21:13:23 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 18:49:16 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 08:14:14 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 01:04:16 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 08:12:51 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 19:38:34 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 03:53:17 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 07:19:27 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 15:48:10 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 19:18:31 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 04:32:25 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 18:07:31 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 01:41:06 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 15:03:50 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 12:11:28 localhost (II) LoadModule: "glx"
+Jul 29 17:52:41 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 07:18:28 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 28 23:37:20 localhost (II) LoadModule: "glx"
+Jul 28 23:02:56 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 10:08:09 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 22:10:02 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 07:18:32 localhost (II) LoadModule: "glx"
+Jul 29 22:42:52 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 11:21:44 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 22:43:52 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 20:27:14 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 11:04:40 localhost (II) NVIDIA(0): Creating default Display subsection in Screen section
+Jul 29 15:08:34 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0
+Jul 29 22:02:19 localhost (II) LoadModule: "glx"
+Jul 29 02:19:02 localhost (WW) VGA arbiter: cannot open kernel arbiter, no multi-card support
+Jul 29 16:43:32 localhost (II) LoadModule: "glx"
+Jul 29 05:01:18 localhost (EE) Failed to load module "nouveau" (module does not exist, 0)
+Jul 29 09:34:21 localhost (--) NVIDIA(0): Valid display device(s) on GPU-0 at PCI:1:0:0

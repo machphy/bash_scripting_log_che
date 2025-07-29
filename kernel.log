@@ -1,0 +1,100 @@
+Jul 29 08:15:58 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 11:06:56 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 12:46:52 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 02:32:19 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 00:40:25 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 08:05:14 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 12:54:01 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 28 23:27:41 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 03:08:52 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 00:02:12 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 02:01:08 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 17:26:31 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 14:33:37 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 21:10:18 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 14:20:33 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 19:10:09 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 04:22:01 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 20:23:52 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 28 23:36:34 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 13:33:39 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 28 23:02:42 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 16:55:45 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 28 23:01:12 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 12:47:41 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 07:21:03 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 01:39:17 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 22:22:08 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 00:29:54 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 22:08:31 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 12:01:45 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 16:52:46 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 00:30:08 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 16:11:46 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 09:37:46 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 03:43:33 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 04:22:19 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 18:50:07 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 13:59:59 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 08:35:53 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 02:46:57 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 05:29:54 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 19:53:40 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 07:04:30 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 10:14:05 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 10:17:48 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 07:43:55 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 19:47:20 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 20:39:02 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 20:08:21 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 02:14:51 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 16:17:13 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 15:54:52 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 11:23:51 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 17:39:47 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 00:04:00 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 22:10:00 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 18:41:38 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 09:53:25 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 20:12:33 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 14:52:30 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 08:36:15 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 07:41:30 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 18:47:14 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 01:21:45 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 13:44:49 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 13:00:18 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 07:28:38 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 08:33:43 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 07:11:56 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 22:09:03 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 02:51:24 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 00:24:51 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 18:09:53 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 14:04:06 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 17:12:03 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 07:03:44 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 15:03:36 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 28 23:44:33 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 00:19:23 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 08:34:05 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 28 23:48:28 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 00:28:36 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 28 23:31:54 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 10:46:49 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 20:27:40 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 03:04:18 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 00:31:09 localhost eth0: Link is Up - 1Gbps/Full - flow control rx/tx
+Jul 29 07:07:17 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 17:51:30 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 28 22:57:53 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 18:22:07 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 03:20:56 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 00:24:04 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 07:25:23 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 03:24:51 localhost EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 11:17:55 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 28 23:28:43 localhost systemd-journald[123]: File /var/log/journal/xyz/system.journal corrupted
+Jul 29 16:42:36 localhost usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Jul 29 16:37:56 localhost CPU0: Core temperature above threshold, cpu clock throttled
+Jul 29 19:56:04 localhost CPU0: Core temperature above threshold, cpu clock throttled

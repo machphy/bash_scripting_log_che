@@ -1,0 +1,100 @@
+Jul 29 11:46:39 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 07:57:54 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 08:14:12 localhost eth0: Link is Down
+Jul 29 03:31:20 localhost eth0: Link is Down
+Jul 29 09:55:35 localhost eth0: Link is Down
+Jul 29 08:31:14 localhost eth0: Link is Down
+Jul 28 23:42:19 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 17:21:24 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 13:16:32 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 12:16:27 localhost eth0: Link is Down
+Jul 29 08:26:25 localhost eth0: Link is Up
+Jul 29 09:17:30 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 06:01:22 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 00:51:37 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 08:47:57 localhost eth0: Link is Down
+Jul 29 04:10:34 localhost eth0: Link is Up
+Jul 29 16:52:35 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 04:47:34 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 11:35:57 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 06:16:11 localhost eth0: Link is Down
+Jul 28 23:07:23 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 03:38:58 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 22:37:31 localhost eth0: Link is Up
+Jul 28 23:38:17 localhost eth0: Link is Down
+Jul 29 17:57:30 localhost eth0: Link is Down
+Jul 29 07:47:38 localhost eth0: Link is Down
+Jul 29 03:00:10 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 17:14:50 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 16:23:52 localhost eth0: Link is Up
+Jul 29 20:08:35 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 20:00:53 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 10:33:30 localhost eth0: Link is Up
+Jul 29 17:02:01 localhost eth0: Link is Down
+Jul 29 01:27:49 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 21:17:30 localhost eth0: Link is Up
+Jul 29 09:03:51 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 21:35:12 localhost eth0: Link is Up
+Jul 29 13:47:23 localhost eth0: Link is Down
+Jul 29 14:40:36 localhost eth0: Link is Up
+Jul 29 16:46:29 localhost eth0: Link is Down
+Jul 29 14:00:58 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 22:36:52 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 16:06:38 localhost eth0: Link is Down
+Jul 29 06:26:33 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 07:23:14 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 04:21:32 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 16:40:30 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 01:27:54 localhost eth0: Link is Down
+Jul 29 18:24:57 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 21:40:07 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 05:36:10 localhost eth0: Link is Up
+Jul 29 21:27:01 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 19:58:40 localhost eth0: Link is Down
+Jul 29 12:40:44 localhost eth0: Link is Up
+Jul 29 12:32:46 localhost eth0: Link is Down
+Jul 29 00:16:36 localhost eth0: Link is Down
+Jul 29 18:55:57 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 11:57:01 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 05:13:16 localhost eth0: Link is Up
+Jul 29 15:56:16 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 19:06:43 localhost eth0: Link is Down
+Jul 29 20:41:30 localhost eth0: Link is Down
+Jul 29 03:49:46 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 20:10:56 localhost eth0: Link is Down
+Jul 29 18:31:14 localhost eth0: Link is Down
+Jul 29 00:15:38 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 14:54:21 localhost eth0: Link is Down
+Jul 29 18:59:28 localhost eth0: Link is Down
+Jul 29 06:23:40 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 16:19:25 localhost eth0: Link is Down
+Jul 29 16:23:56 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 11:44:22 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 11:09:38 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 28 23:55:33 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 18:09:36 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 13:50:40 localhost eth0: Link is Down
+Jul 29 08:00:55 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 28 23:34:46 localhost eth0: Link is Up
+Jul 29 15:43:58 localhost eth0: Link is Down
+Jul 29 09:18:40 localhost eth0: Link is Down
+Jul 29 14:20:52 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 28 23:52:19 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 17:27:38 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 06:01:19 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 03:17:38 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 18:18:38 localhost eth0: Link is Up
+Jul 29 08:10:05 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 14:57:14 localhost eth0: Link is Up
+Jul 29 13:29:09 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 13:55:19 localhost eth0: Link is Down
+Jul 29 20:14:51 localhost eth0: Link is Up
+Jul 29 03:39:57 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 12:47:57 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 11:49:02 localhost eth0: Link is Down
+Jul 29 14:49:05 localhost dhclient: DHCPREQUEST of 192.168.1.100 on wlan0 to 192.168.1.1 port 67
+Jul 29 03:14:03 localhost wlan0: deauthenticating from 192.168.1.1 by local choice (Reason: 3=DEAUTH_LEAVING)
+Jul 29 14:42:38 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 06:51:50 localhost eth0: Link is Down
+Jul 29 16:06:34 localhost NetworkManager[999]: <info>  [timestamp] device (eth0): state change: disconnected -> prepare
+Jul 29 00:17:35 localhost eth0: Link is Up

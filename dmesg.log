@@ -1,0 +1,100 @@
+Jul 29 18:06:51 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 28 23:31:33 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 12:20:21 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 01:57:54 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 19:14:35 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 08:57:54 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 11:57:32 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 14:53:12 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 14:08:53 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 28 23:33:22 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 01:12:19 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 22:40:43 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 03:51:13 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 06:59:46 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 00:31:02 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 19:19:02 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 01:57:07 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 13:11:19 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 08:07:41 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 18:47:42 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 07:17:22 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 00:57:33 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 07:02:34 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 12:00:16 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 07:35:51 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 03:27:49 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 18:44:08 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 19:27:40 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 20:53:39 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 15:30:05 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 14:03:26 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 07:19:03 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 15:49:26 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 11:28:10 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 08:13:07 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 05:56:44 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 18:27:40 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 14:30:37 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 04:24:45 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 17:29:59 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 16:13:51 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 02:18:54 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 28 23:03:05 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 19:08:38 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 01:43:55 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 17:41:00 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 00:45:48 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 06:13:55 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 03:36:25 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 28 22:59:42 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 16:59:05 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 02:10:57 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 11:23:10 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 09:16:22 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 18:42:30 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 19:44:31 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 17:36:13 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 28 22:50:16 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 07:38:33 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 04:54:41 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 16:23:06 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 17:00:32 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 03:51:38 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 05:26:22 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 16:39:41 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 19:54:50 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 15:47:43 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 06:09:21 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 19:59:01 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 00:28:42 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 03:26:37 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 03:42:34 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 13:20:34 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 12:48:34 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 06:57:18 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 06:46:22 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 10:32:17 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 13:48:01 localhost [    0.000000] Initializing cgroup subsys cpuset
+Jul 29 19:18:51 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 00:23:06 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 11:47:57 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 12:28:52 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 07:16:14 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 07:31:48 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 10:54:43 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 22:25:28 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 01:52:10 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 12:52:25 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 13:46:36 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+Jul 29 09:27:42 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 12:43:08 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 22:20:56 localhost [    2.234567] EXT4-fs (sda1): mounted filesystem with ordered data mode
+Jul 29 20:37:30 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 02:28:52 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 01:25:52 localhost [    1.345678] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Jul 29 09:14:42 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 16:01:17 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 13:47:55 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 13:23:03 localhost [    3.123456] systemd[1]: Started Journal Service.
+Jul 29 07:44:34 localhost [    0.004000] smpboot: CPU0: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
