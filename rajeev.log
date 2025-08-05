@@ -1,0 +1,100 @@
+Aug 05 15:49:38 localhost Started Network Manager Script Dispatcher Service.
+Aug 05 04:00:07 localhost    Started Session c3 of user rajeev.
+Aug 05 13:33:38 localhost    Started Session c1 of user rajeev.
+Aug 04 18:52:22 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 06:22:05 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 07:06:43 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 10:55:45 localhost    Started Session c4 of user rajeev.
+Aug 04 16:35:54 localhost    Started Session c3 of user rajeev.
+Aug 05 04:44:41 localhost Stopped target Graphical Interface.
+Aug 05 00:07:06 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 07:04:04 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 05:50:09 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 09:07:57 localhost Stopped target Graphical Interface.
+Aug 05 15:29:59 localhost Stopped target Graphical Interface.
+Aug 04 16:17:55 localhost Reached target Sleep.
+Aug 05 03:18:32 localhost    Started Session c4 of user rajeev.
+Aug 05 03:53:04 localhost Stopped target Graphical Interface.
+Aug 05 00:31:22 localhost    Started Session c2 of user rajeev.
+Aug 05 07:45:31 localhost    Started Session c2 of user rajeev.
+Aug 05 07:29:19 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 08:46:37 localhost    Started Session c4 of user rajeev.
+Aug 04 19:39:45 localhost    Started Session c4 of user rajeev.
+Aug 05 00:30:32 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 01:22:00 localhost Started Network Manager Script Dispatcher Service.
+Aug 05 14:30:39 localhost    Started Session c2 of user rajeev.
+Aug 04 21:21:26 localhost Started Network Manager Script Dispatcher Service.
+Aug 04 22:39:25 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 04 23:30:32 localhost    Started Session c3 of user rajeev.
+Aug 04 21:20:25 localhost    Started Session c1 of user rajeev.
+Aug 05 11:07:06 localhost Reached target Sleep.
+Aug 05 00:42:11 localhost Started Network Manager Script Dispatcher Service.
+Aug 04 19:00:52 localhost Stopped target Graphical Interface.
+Aug 04 17:17:12 localhost Started Network Manager Script Dispatcher Service.
+Aug 05 04:44:07 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 10:42:57 localhost    Started Session c3 of user rajeev.
+Aug 05 02:37:58 localhost    Started Session c4 of user rajeev.
+Aug 05 02:06:52 localhost    Started Session c3 of user rajeev.
+Aug 04 19:02:23 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 11:31:07 localhost    Started Session c2 of user rajeev.
+Aug 05 07:48:07 localhost    Started Session c4 of user rajeev.
+Aug 04 21:18:30 localhost Reached target Sleep.
+Aug 04 23:58:40 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 04 23:16:30 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 01:21:01 localhost Stopped target Graphical Interface.
+Aug 05 02:45:49 localhost Reached target Sleep.
+Aug 05 08:17:19 localhost    Started Session c2 of user rajeev.
+Aug 05 04:35:59 localhost Stopped target Graphical Interface.
+Aug 04 23:31:00 localhost Stopped target Graphical Interface.
+Aug 05 10:58:13 localhost    Started Session c4 of user rajeev.
+Aug 05 08:46:46 localhost Started Network Manager Script Dispatcher Service.
+Aug 05 05:12:38 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 10:10:06 localhost    Started Session c1 of user rajeev.
+Aug 04 16:59:58 localhost    Started Session c3 of user rajeev.
+Aug 05 08:58:28 localhost    Started Session c1 of user rajeev.
+Aug 05 09:07:23 localhost    Started Session c3 of user rajeev.
+Aug 05 13:09:24 localhost Stopped target Graphical Interface.
+Aug 04 16:56:44 localhost    Started Session c1 of user rajeev.
+Aug 04 21:10:43 localhost Started Network Manager Script Dispatcher Service.
+Aug 04 20:08:57 localhost    Started Session c3 of user rajeev.
+Aug 05 03:44:39 localhost Stopped target Graphical Interface.
+Aug 05 01:50:04 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 01:09:50 localhost    Started Session c4 of user rajeev.
+Aug 05 08:49:46 localhost    Started Session c3 of user rajeev.
+Aug 05 01:37:38 localhost    Started Session c4 of user rajeev.
+Aug 04 23:36:09 localhost    Started Session c3 of user rajeev.
+Aug 05 12:52:44 localhost Stopped target Graphical Interface.
+Aug 04 18:33:25 localhost Started Network Manager Script Dispatcher Service.
+Aug 05 06:17:18 localhost Stopped target Graphical Interface.
+Aug 05 05:40:01 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 04 23:14:38 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 06:53:58 localhost    Started Session c4 of user rajeev.
+Aug 04 17:22:36 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 04 17:49:15 localhost    Started Session c2 of user rajeev.
+Aug 04 21:49:30 localhost Stopped target Graphical Interface.
+Aug 05 14:31:10 localhost    Started Session c1 of user rajeev.
+Aug 05 02:22:27 localhost Stopped target Graphical Interface.
+Aug 05 04:46:32 localhost    Started Session c2 of user rajeev.
+Aug 04 22:06:56 localhost Started Network Manager Script Dispatcher Service.
+Aug 05 02:59:04 localhost    Started Session c2 of user rajeev.
+Aug 04 23:52:22 localhost    Started Session c2 of user rajeev.
+Aug 05 06:00:56 localhost    Started Session c3 of user rajeev.
+Aug 05 02:58:22 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 07:29:07 localhost    Started Session c4 of user rajeev.
+Aug 05 05:58:15 localhost Reached target Sleep.
+Aug 04 16:42:34 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 13:19:36 localhost Started Network Manager Script Dispatcher Service.
+Aug 04 19:38:46 localhost    Started Session c4 of user rajeev.
+Aug 04 17:11:52 localhost Started Network Manager Script Dispatcher Service.
+Aug 04 23:03:58 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 05 00:18:41 localhost    Started Session c4 of user rajeev.
+Aug 05 15:26:08 localhost    Started Session c1 of user rajeev.
+Aug 05 15:49:05 localhost Reached target Sleep.
+Aug 04 19:16:47 localhost    Started Session c1 of user rajeev.
+Aug 05 13:47:01 localhost    Started Session c2 of user rajeev.
+Aug 04 16:41:35 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 04 19:02:40 localhost    Started Session c3 of user rajeev.
+Aug 05 12:18:30 localhost Started Update UTMP about System Boot/Shutdown.
+Aug 04 20:34:52 localhost    Started Session c2 of user rajeev.
+Aug 05 00:59:48 localhost Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Aug 05 15:46:59 localhost Started Update UTMP about System Boot/Shutdown.
